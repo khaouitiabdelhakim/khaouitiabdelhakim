@@ -42,11 +42,7 @@
 </p>
 
 <!-- Support -->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/kh.abdelhakim">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210" />
-  </a>
-</p>
+<a href="https://www.buymeacoffee.com/kh.abdelhakim"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=kh.abdelhakim&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 <!-- Stats -->
 <p align="center">
