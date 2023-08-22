@@ -35,15 +35,16 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   <!-- Add more icons for your languages and tools here -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <!-- Add other programming language icons here -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <!-- Add Adobe products and more icons here -->
 </p>
 
 <!-- Support -->
 <p align="center">
   <a href="https://www.buymeacoffee.com/kh.abdelhakim">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210" />
-  </a>
-  <a href="https://ko-fi.com/khabdelhakim">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" width="210" />
   </a>
 </p>
 
