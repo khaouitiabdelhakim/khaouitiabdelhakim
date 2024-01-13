@@ -1,5 +1,14 @@
+<!-- Header -->
+<h1 align="center">Hi there, I'm Abdelhakim Khaouiti 👋</h1>
+<h3 align="center">Passionate Software Engineer | Dreamer | Creator</h3>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khaouitiabdelhakim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Faborfy <br>👯 I’m looking to collaborate on LyricsAI<br>🌱 I’m currently learning Flutter & React<br>
 
 
 ## 🌐 Socials:
