@@ -7,6 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=khaouitiabdelhakim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 # 💫 About Me:
 🔭 I’m currently working on Faborfy <br>👯 I’m looking to collaborate on LyricsAI<br>🌱 I’m currently learning Flutter & React<br>
 
@@ -34,14 +37,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khaouitiabdelhakim&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khaouitiabdelhakim&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<!-- Support -->
+<p align="center">
+<a target="_blank" href="https://www.buymeacoffee.com/kh.abdelhakim"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=kh.abdelhakim&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=khaouitiabdelhakim&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
   ## 💰 You can help me by Donating
