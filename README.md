@@ -11,6 +11,13 @@
 🔭 I’m currently working on Faborfy <br>👯 I’m looking to collaborate on LyricsAI<br>🌱 I’m currently learning Flutter & React<br>
 
 
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khaouitiabdelhakim" alt="GitHub Trophies" />
+  </a>
+</p>
+
 <!-- Support -->
 <p align="center">
 <a target="_blank" href="https://www.buymeacoffee.com/kh.abdelhakim"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=kh.abdelhakim&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
