@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi there, I'm Abdelhakim Khaouiti 👋</h1>
+<h1 align="center">Hi there, I'm ABDELHAKIM KHAOUITI 👋</h1>
 <h3 align="center">Passionate Software Engineer | Dreamer | Creator</h3>
 
 <!-- Profile Views Counter -->
