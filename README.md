@@ -7,8 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=khaouitiabdelhakim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 # 💫 About Me:
 🔭 I’m currently working on Faborfy <br>👯 I’m looking to collaborate on LyricsAI<br>🌱 I’m currently learning Flutter & React<br>
