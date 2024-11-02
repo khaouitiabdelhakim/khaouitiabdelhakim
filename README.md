@@ -9,8 +9,6 @@
 
 
 
-
-# WHI AM I:
 Software Engineer Student at @ENSIAS with 3+ years in mobile development (Kotlin/Java), 2+ years in full-stack web development (Laravel, Spring Boot, Angular, React, Express, Next, Django \& Flask), cofounder of Progma Academy & owner of KHAOUITI Apps.
 
 
