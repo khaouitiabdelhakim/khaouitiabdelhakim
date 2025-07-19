@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hi there, I'm ABDELHAKIM KHAOUITI</h1>
-<h3 align="center">Passionate Software Engineer | Dreamer | Creator</h3>
+<h1 align="center">Salam 3alaykom, I'm ABDELHAKIM KHAOUITI</h1>
+<h3 align="center">Talented Software Engineer | Owner Of KHAOUITI Apps | Content Creator</h3>
 
 <!-- Profile Views Counter -->
 <p align="center">
@@ -9,7 +9,7 @@
 
 
 
-Software Engineer Student at @ENSIAS with 3+ years in mobile development (Kotlin/Java), 2+ years in full-stack web development (Laravel, Spring Boot, Angular, React, Express, Next, Django \& Flask), cofounder of Progma Academy & owner of KHAOUITI Apps.
+AI Software Engineer at Leyton CognitX @ENSIAS specializing in Transformers, AI agents, and LLMs. My technical expertise is built on 3+ years of mobile development (Kotlin/Java) and 2.5+ years of full-stack experience (Laravel, Spring Boot, Angular, React,Vue, Django, FastAPI and more). Co-founder of Progma Academy and owner of KHAOUITI Apps.
 
 
 <!-- GitHub Trophies -->
