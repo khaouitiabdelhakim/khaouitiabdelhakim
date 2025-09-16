@@ -9,8 +9,7 @@
 
 
 
-AI Software Engineer at Leyton CognitX @ENSIAS specializing in Transformers, AI agents, and LLMs. My technical expertise is built on 3+ years of mobile development (Kotlin/Java) and 2.5+ years of full-stack experience (Laravel, Spring Boot, Angular, React,Vue, Django, FastAPI and more). Co-founder of Progma Academy and owner of KHAOUITI Apps.
-
+Software Engineer at BCG X from @ENSIAS specializing in Full Stack, Android Mobile, Transformers, AI agents, and LLMs. My technical expertise is built on 3+ years of mobile development (Kotlin/Java) and 2.5+ years of full-stack experience (Laravel, Spring Boot, Angular, React,Vue, Django, FastAPI and more). Co-founder of Progma Academy and owner of KHAOUITI Apps.
 
 <!-- GitHub Trophies -->
 <p align="center">
@@ -20,9 +19,6 @@ AI Software Engineer at Leyton CognitX @ENSIAS specializing in Transformers, AI 
 </p>
 
 <!-- Support -->
-<p align="center">
-<a href="https://www.buymeacoffee.com/kh.abdelhakim"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=kh.abdelhakim&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
-</p>
 
 
 
